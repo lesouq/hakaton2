@@ -1,9 +1,5 @@
 Manifest-Version: 1.0
-<<<<<<< HEAD
 Build-Jdk-Spec: 11
-=======
-Build-Jdk-Spec: 13
->>>>>>> 7cdb33be6292a0e7ddd806a61b2ef9c96de9e7d4
 Implementation-Title: demo
 Implementation-Version: 0.0.1-SNAPSHOT
 Created-By: Maven Integration for Eclipse
